@@ -23,5 +23,8 @@ This project analyzes Brazilian e-commerce data using Python and Power BI.
 - seller_analysis.py
 - monthly_trend_analysis.py
 
+### Dashboard
+![Dashboard](dashboard.jpg)
+
 ### Author
 Elnaz Jovkar
